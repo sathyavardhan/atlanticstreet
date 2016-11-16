@@ -3,6 +3,7 @@
 
 <target name="info">
 <echo>info block executed </echo>
+<echo>this file is added into workspace</echo>
 </target>
 
 <target name="clean">
